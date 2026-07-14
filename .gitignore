@@ -1,0 +1,11 @@
+# Git ignore rules for AI Store
+node_modules/
+dist/
+.env
+database.sqlite
+.system_generated/
+*.log
+.gemini/
+.vs/
+.idea/
+build/
